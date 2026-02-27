@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 6565ea6141ea34a6f8b1b7ec81398f64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - object_ball: {fileID: 4427031919717211063, guid: b8b99ef2d6b1a4963bf6970ef9170f3b,
+      type: 3}
+  - object_circle: {fileID: 7375821976390833528, guid: 7b24fc809e7994036a7fff74f236e24d,
+      type: 3}
+  - object_ground_origin: {fileID: 7907683234995536199, guid: 9da79553a60d4483a8432d4092f5a988,
+      type: 3}
+  - object_txt: {fileID: 1920509800724233091, guid: cfc5176a623d94529b2d8cc6f60f0699,
+      type: 3}
+  - object_circle_bullseye: {fileID: 7375821976390833528, guid: cf0eeeb9e2ef74e268376969f2c94eee,
+      type: 3}
+  - object_floatingnumber: {fileID: 8690347818012682184, guid: d789434f216dd4a99a028b12e582b69e,
+      type: 3}
+  - controller: {fileID: 8548590182335791345, guid: 5571ad12bd26346c19823e40c62b677f,
+      type: 3}
+  - object_subID: {fileID: 1924101795878168460, guid: 31dbc14dea448403882b10262c03f172,
+      type: 3}
+  - MainCamera: {fileID: 1389087922231577867, guid: 979bd6914616a4f9e906816ec5c8da75,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
